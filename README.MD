@@ -26,4 +26,4 @@
 1. lerna version 增加版本号
 2. lerna changed 查看上版本以来所有的变更
 3. lerna diff 针对 git commit 之间的比较
-4. lerna publish
+4. lerna publish (可选择版本号，git 仓库会自动增加 tag)
