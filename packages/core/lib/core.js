@@ -4,5 +4,5 @@ module.exports = core;
 
 function core() {
     // TODO
-    console.log('guohao core');
+    console.log('guohao core init');
 }
