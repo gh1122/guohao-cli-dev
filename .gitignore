@@ -1,0 +1,10 @@
+.vscode
+.idea
+node_modules
+package-lock.json
+
+packages/**/node_modules
+lerna-debug.log
+
+.DS_Store
+**/.DS_Store
